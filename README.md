@@ -122,8 +122,10 @@ but it finally reads it without panicking.*
 
 ---
 
-## 📜 **License**
+## 📜 License
 
-**MIT License** — *use responsibly, historians are watching* 👀
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
+
 
 ---
