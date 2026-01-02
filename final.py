@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2026 Ahmad Abdullah
+
 # import torch
 # import pandas as pd
 # from transformers import AutoTokenizer, T5ForConditionalGeneration
@@ -416,3 +419,4 @@ def translate(text: str):
 # =====================================
 print("\n--- SAMPLE TEST ---")
 print(translate("um-ma kà-ru-um kà-ni-ia-ma a-na aa-qí-il"))
+
